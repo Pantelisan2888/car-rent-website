@@ -4,56 +4,56 @@ const carData = [
         name: "BMW 230i xDrive",
         type: "COUPE",
         price: 40,
-        image: "images/car-2.png",
+        image: "https://i.pinimg.com/736x/d0/06/b9/d006b93d9eab6d552536957602ea9c2d.jpg",
         tag: "Free Cancellation"
     },
     {
         name: "BMW 230i xDrive",
         type: "COUPE",
         price: 40,
-        image: "images/car-2.png",
+        image: "https://i.pinimg.com/736x/d0/06/b9/d006b93d9eab6d552536957602ea9c2d.jpg",
         tag: "Free Cancellation"
     },
     {
         name: "BMW 230i xDrive",
         type: "COUPE",
         price: 40,
-        image: "images/car-2.png",
+        image: "https://i.pinimg.com/736x/d0/06/b9/d006b93d9eab6d552536957602ea9c2d.jpg",
         tag: "Free Cancellation"
     },
     {
         name: "BMW 230i xDrive",
         type: "COUPE",
         price: 40,
-        image: "images/car-2.png",
+        image: "https://i.pinimg.com/736x/d0/06/b9/d006b93d9eab6d552536957602ea9c2d.jpg",
         tag: "Free Cancellation"
     },
     {
         name: "BMW 230i xDrive",
         type: "COUPE",
         price: 40,
-        image: "images/car-2.png",
+        image: "https://i.pinimg.com/736x/d0/06/b9/d006b93d9eab6d552536957602ea9c2d.jpg",
         tag: "Free Cancellation"
     },
     {
         name: "BMW 230i xDrive",
         type: "COUPE",
         price: 40,
-        image: "images/car-2.png",
+        image: "https://i.pinimg.com/736x/d0/06/b9/d006b93d9eab6d552536957602ea9c2d.jpg",
         tag: "Free Cancellation"
     },
     {
         name: "BMW 230i xDrive",
         type: "COUPE",
         price: 40,
-        image: "images/car-2.png",
+        image: "https://i.pinimg.com/736x/d0/06/b9/d006b93d9eab6d552536957602ea9c2d.jpg",
         tag: "Free Cancellation"
     },
     {
         name: "BMW 230i xDrive",
         type: "COUPE",
         price: 40,
-        image: "images/car-2.png",
+        image: "https://i.pinimg.com/736x/d0/06/b9/d006b93d9eab6d552536957602ea9c2d.jpg",
         tag: "Free Cancellation"
     }
 ];
